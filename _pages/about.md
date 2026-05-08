@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
   <p>
-      Computer Engineering Department, Computer Vision Laboratory<br>
-      Shahrood University of Technology<br>
-      Shahrood, Semnan, Iran
+  Computer Engineering Department, Computer Vision Laboratory<br>
+  Shahrood University of Technology<br>
+  Shahrood, Semnan, Iran
   </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
