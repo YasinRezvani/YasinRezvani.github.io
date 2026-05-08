@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.Sc. Student in Computer Engineering | yasinrezvani@shahroodut.ac.ir
+subtitle: Undergraduate Researcher in Computer Vision | <a href="mailto:yasinrezvani@shahroodut.ac.ir">yasinrezvani@shahroodut.ac.ir</a>
 
 profile:
   align: right
