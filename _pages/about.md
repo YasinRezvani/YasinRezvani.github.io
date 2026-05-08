@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computer Engineering Department, Computer Vision Laboratory,</p>
+    
     <p>Shahrood University of Technology</p>
     <p>Shahrood, Semnan, Iran</p>
 
