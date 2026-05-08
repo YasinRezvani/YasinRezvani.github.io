@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle:11111111111111111 Undergraduate Researcher in Computer Vision | <a href="mailto:yasinrezvani@shahroodut.ac.ir">yasinrezvani@shahroodut.ac.ir</a>
+subtitle: 11111111111111111Undergraduate Researcher in Computer Vision | <a href="mailto:yasinrezvani@shahroodut.ac.ir">yasinrezvani@shahroodut.ac.ir</a>
 
 profile:
   align: right
