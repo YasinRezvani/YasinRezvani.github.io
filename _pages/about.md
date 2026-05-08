@@ -2,16 +2,18 @@
 layout: about
 title: about
 permalink: /
-subtitle: 11111111111111111Undergraduate Researcher in Computer Vision | <a href="mailto:yasinrezvani@shahroodut.ac.ir">yasinrezvani@shahroodut.ac.ir</a>
+subtitle: Undergraduate Researcher in Computer Vision | <a href="mailto:yasinrezvani@shahroodut.ac.ir">yasinrezvani@shahroodut.ac.ir</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Computer Engineering Department, Computer Vision Laboratory,</p>
-    <p>Shahrood University of Technology</p>
-    <p>Shahrood, Semnan, Iran</p>
+  <p>
+      Computer Engineering Department, Computer Vision Laboratory<br>
+      Shahrood University of Technology<br>
+      Shahrood, Semnan, Iran
+  </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
