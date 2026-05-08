@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: B.Sc. Student in Computer Engineering, <a href='https://cvlab.shahroodut.ac.ir/'>CVLab SHUT</a>, <a href='https://shahroodut.ac.ir/en/'>Shahrood University of Technology</a> | yasinrezvani@shahroodut.ac.ir
+subtitle: B.Sc. Student in Computer Engineering | yasinrezvani@shahroodut.ac.ir
 
 profile:
   align: right
