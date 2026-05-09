@@ -67,6 +67,14 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
+        {% if site.data.socials.cv_pdf %}
+          <a href="{{ site.data.socials.cv_pdf | relative_url }}"
+             target="_blank"
+             rel="noopener noreferrer"
+             class="btn btn-sm btn-outline-primary">
+            CV
+          </a>
+        {% endif %}
         <div class="contact-icons">{% social_links %}</div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
