@@ -26,7 +26,17 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
+# Personal info
+email: yasinrezvani2025@gmail.com
+cv_pdf: /assets/pdf/CV_YasinRezvani.pdf
 
+# Social media
+github_username: YasinRezvani
+linkedin_username: yasinrezvani
+scholar_userid: vmBGznMAAAAJ
+orcid_id: 0009-0000-5086-127X
+kaggle_username: yasinrezvani
+researchgate_username: Yasin-Rezvani
 # repo color theme
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
