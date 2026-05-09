@@ -1,31 +1,30 @@
 cv_pdf: /assets/pdf/CV_YasinRezvani.pdf
 email: yasinrezvani2025@gmail.com
 
-socials:
-  google_scholar:
-    url: https://scholar.google.com/citations?user=vmBGznMAAAAJ
-    logo: ai-google-scholar.svg
+google_scholar:
+  url: https://scholar.google.com/citations?user=vmBGznMAAAAJ
+  logo: google-scholar.svg
 
-  researchgate:
-    url: https://www.researchgate.net/profile/Yasin-Rezvani
-    logo: ai-researchgate.svg
+researchgate:
+  url: https://www.researchgate.net/profile/Yasin-Rezvani
+  logo: researchgate.svg
 
-  orcid:
-    url: https://orcid.org/0009-0000-5086-127X
-    logo: ai-orcid.svg
+orcid:
+  url: https://orcid.org/0009-0000-5086-127X
+  logo: orcid.svg
 
-  web_of_science:
-    url: https://www.webofscience.com/wos/author/record/KRQ-9968-2024
-    logo: ai-web-of-science.svg
+web_of_science:
+  url: https://www.webofscience.com/wos/author/record/KRQ-9968-2024
+  logo: web-of-science.svg
 
-  github:
-    url: https://github.com/YasinRezvani
-    logo: fab-github.svg
+github:
+  url: https://github.com/YasinRezvani
+  logo: github.svg
 
-  kaggle:
-    url: https://www.kaggle.com/yasinrezvani
-    logo: fab-kaggle.svg
+kaggle:
+  url: https://www.kaggle.com/yasinrezvani
+  logo: kaggle.svg
 
-  linkedin:
-    url: https://www.linkedin.com/in/yasinrezvani
-    logo: fab-linkedin.svg
+linkedin:
+  url: https://www.linkedin.com/in/yasinrezvani
+  logo: linkedin.svg
