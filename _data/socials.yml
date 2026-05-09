@@ -1,9 +1,24 @@
 cv_pdf: /assets/pdf/CV_YasinRezvani.pdf
 email: yasinrezvani2025@gmail.com
-scholar_userid: vmBGznMAAAAJ
-github_username: YasinRezvani
-linkedin_username: yasinrezvani
-kaggle_username: yasinrezvani
-researchgate_profile: Yasin-Rezvani
-orcid_id: 0009-0000-5086-127X
-wos_researcher_id: KRQ-9968-2024
+
+socials:
+  - name: google_scholar
+    id: vmBGznMAAAAJ
+
+  - name: researchgate
+    url: https://www.researchgate.net/profile/Yasin-Rezvani
+
+  - name: orcid
+    id: 0009-0000-5086-127X
+
+  - name: web_of_science
+    id: KRQ-9968-2024
+
+  - name: github
+    url: https://github.com/YasinRezvani
+
+  - name: kaggle
+    url: https://www.kaggle.com/yasinrezvani
+
+  - name: linkedin
+    url: https://www.linkedin.com/in/yasinrezvani
