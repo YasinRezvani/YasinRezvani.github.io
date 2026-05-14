@@ -285,7 +285,8 @@ let determineComputedTheme = () => {
       return "dark";
     } else {
       return "light";
-    }
+    } else if (themeSetting == null) {
+      return "dark";   
   } else {
     return themeSetting;
   }
