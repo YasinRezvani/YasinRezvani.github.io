@@ -493,6 +493,13 @@ ninja.data = [{
           window.open("https://www.kaggle.com/yasinrezvani", "_blank");
         },
       },{
+        id: 'social-semanticscholar',
+        title: 'Semantic Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.semanticscholar.org/author/2318508638", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
