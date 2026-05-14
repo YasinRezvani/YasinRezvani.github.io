@@ -129,7 +129,7 @@ let addMermaidZoom = (records, observer) => {
 };
 
 let setMermaidTheme = (theme) => {
-  if (theme == "light") {
+  if (theme == "dark") {
     // light theme name in mermaid is 'default'
     // https://mermaid.js.org/config/theming.html#available-themes
     theme = "default";
@@ -270,7 +270,7 @@ let transTheme = () => {
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme") || "dark";
   if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "light";
+    themeSetting = "dark";
   }
   return themeSetting;
 };
@@ -284,7 +284,7 @@ let determineComputedTheme = () => {
     if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
       return "dark";
     } else {
-      return "light";
+      return "dark";
     } else if (themeSetting == null) {
       return "dark";   
   } else {
