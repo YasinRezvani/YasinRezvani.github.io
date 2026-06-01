@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-29'
+  last_updated: '2026-06-01'
 papers:
   vmBGznMAAAAJ:SxCCDk4iOpsC:
-    citations: 30
+    citations: 31
     title: Single image denoising via a new lightweight learning-based model
     year: '2024'
   vmBGznMAAAAJ:hGdtkIFZdKAC:
@@ -10,6 +10,6 @@ papers:
     title: The serious water crisis and our responsibility against it
     year: '2019'
   vmBGznMAAAAJ:t-hv7AR41mYC:
-    citations: 47
+    citations: 50
     title: 'BRISC: Annotated dataset for brain tumor segmentation and classification'
     year: '2026'
