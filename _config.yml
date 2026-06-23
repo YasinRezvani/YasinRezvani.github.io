@@ -97,10 +97,10 @@ lsi: false # produce an index for related posts
 
 # Pagination
 pagination:
-  enabled: true
+  enabled: false
 
 related_blog_posts:
-  enabled: true
+  enabled: false
   max_related: 5
 
 # Giscus comments (RECOMMENDED)
@@ -648,6 +648,23 @@ third_party_libraries:
       js: "https://cdn.jsdelivr.net/npm/venobox@{{version}}/dist/venobox.min.js"
     version: "2.1.8"
 
+
+
+blog:
+  enabled: false
+
+projects:
+  enabled: false
+
+books:
+  enabled: false
+
+news:
+  enabled: false
+
+teaching:
+  enabled: false
+  
 # -----------------------------------------------------------------------------
 # Get external JSON data
 # -----------------------------------------------------------------------------
