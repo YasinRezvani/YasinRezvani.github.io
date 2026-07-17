@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-17'
 papers:
   vmBGznMAAAAJ:LGlY6t8CeOMC:
     citations: 0
     title: 'Swin-HAFNet: A Hierarchical Multi-Task Transformer for Brain Tumor Segmentation and Classification'
     year: Unknown Year
   vmBGznMAAAAJ:SxCCDk4iOpsC:
-    citations: 34
+    citations: 36
     title: Single image denoising via a new lightweight learning-based model
     year: '2024'
   vmBGznMAAAAJ:hGdtkIFZdKAC:
