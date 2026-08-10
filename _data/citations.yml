@@ -1,19 +1,19 @@
 metadata:
-  last_updated: '2026-07-17'
+  last_updated: '2026-08-10'
 papers:
   vmBGznMAAAAJ:LGlY6t8CeOMC:
     citations: 0
     title: 'Swin-HAFNet: A Hierarchical Multi-Task Transformer for Brain Tumor Segmentation and Classification'
     year: Unknown Year
   vmBGznMAAAAJ:SxCCDk4iOpsC:
-    citations: 36
+    citations: 35
     title: Single image denoising via a new lightweight learning-based model
     year: '2024'
   vmBGznMAAAAJ:hGdtkIFZdKAC:
     citations: 0
     title: The serious water crisis and our responsibility against it
     year: '2019'
-  vmBGznMAAAAJ:t-hv7AR41mYC:
-    citations: 63
+  vmBGznMAAAAJ:hQUaER0FWQ4C:
+    citations: 73
     title: 'BRISC: Annotated dataset for brain tumor segmentation and classification'
     year: '2026'
