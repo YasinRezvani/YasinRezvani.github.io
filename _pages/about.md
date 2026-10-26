@@ -27,6 +27,6 @@ latest_posts:
 
 I am an undergraduate **Computer Engineering** student at [Shahrood University of Technology](https://shahroodut.ac.ir/en/) and a **Research Assistant** at [CVLab SHUT](https://cvlabshut.github.io/). My undergraduate research is supervised by [Prof. Mansoor Fateh](https://scholar.google.com/citations?user=ZHezeMIAAAAJ&hl=en), and I work on research projects under the guidance of [Dr. Amirreza Fateh](https://amirrezafateh.github.io/).
 
-My work has involved projects on **bra             in MRI analysis**, **image segmentation**, **image denoising**, and **dataset development**. These projects have shaped my interests in **Computer Vision**, **Medical Image Analysis**, **Vision Transformers**, and **Multi-Task Learning**.
+My work has involved projects on **brain MRI analysis**, **image segmentation**, **image denoising**, and **dataset development**. These projects have shaped my interests in **Computer Vision**, **Medical Image Analysis**, **Vision Transformers**, and **Multi-Task Learning**.
 
 I hope to develop AI methods that make medical image analysis more accurate and useful in healthcare.
