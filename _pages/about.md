@@ -24,7 +24,7 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am an undergraduate **Computer Engineering** student at [Shahrood University of Technology](https://shahroodut.ac.ir/en/) and a **Research Assistant** at [CVLab SHUT](https://cvlabshut.github.io/). My academic supervisor is [Prof. Mansoor Fateh](https://scholar.google.com/citations?user=ZHezeMIAAAAJ&hl=en). At the lab, I also work closely with [Dr. Amirreza Fateh](https://amirrezafateh.github.io/), who coordinates the lab and provides guidance on my research projects.
+I am an undergraduate **Computer Engineering** student at [Shahrood University of Technology](https://shahroodut.ac.ir/en/) and a **Research Assistant** at [CVLab SHUT](https://cvlabshut.github.io/). My academic supervisor is [Dr. Mansoor Fateh](https://scholar.google.com/citations?user=ZHezeMIAAAAJ&hl=en). At the lab, I also work closely with [Dr. Amirreza Fateh](https://amirrezafateh.github.io/), who coordinates the lab and provides guidance on my research projects.
 
 My work has involved projects on brain MRI analysis, image segmentation, image denoising, and dataset development. These projects have shaped my interests in Computer Vision, Medical Image Analysis, Vision Transformers, and Multi-Task Learning.
 
